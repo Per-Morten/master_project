@@ -10,7 +10,7 @@ A video demonstrating what is streamed in and out can be seen at:
 [https://www.youtube.com/watch?v=gEE3nMjxk_Y](https://www.youtube.com/watch?v=gEE3nMjxk_Y)
 
 ## Libraries & Usage terms
-Various libraries and resources were used for this project. Those that still remain on the repo are listed below.
+Various libraries and resources were used for this project. Those that still remain in the repo are listed below. Obviously, Unity was used throughout the project (personal license)
 
 |Library        | Author | Terms                                                    | URL   |
 |---------------|--------|----------------------------------------------------------|-------|
