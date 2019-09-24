@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.ifc_visualization.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Vrexer'\\Desktop\\master\\pm_thesis_implementation\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ifc_visualization [Testing]"
+        }
+      }
+    }
+  ]
+}
