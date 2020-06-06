@@ -1,7 +1,7 @@
 # IFC Streaming
 This repo contains the code for my master thesis at NTNU Gjøvik.
 The thesis focused on Data-Oriented Design, and part of it consisted of a case looking at streaming IFC models from disk.
-The thesis will be uploaded to this repo when it's finished.
+The thesis can be found at [https://github.com/Per-Morten/master_project/blob/master/investigating_dod_thesis.pdf](https://github.com/Per-Morten/master_project/blob/master/investigating_dod_thesis.pdf)
 
 ## Video Demonstrations
 A video demonstrating walking around in the WestRiverSide Hospital can be seen at: [https://www.youtube.com/watch?v=jJToc9uKA00](https://www.youtube.com/watch?v=jJToc9uKA00)
