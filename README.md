@@ -6,6 +6,18 @@ The thesis itself can be found in this [repository](https://github.com/Per-Morte
 
 The thesis essentially me trying to understand DOD through literature analysis, in-depth interviews with industry practitioners of DOD, and a practical application of my understanding of DOD, with feedback from some of the practitioners.
 
+## bibtex citation:
+```
+@mastersthesis{investigating_dod_pm_straume,
+    author = {Straume, {Per-Morten}},
+    title = {Investigating Data-Oriented Design},
+    school = {Norwegian University of Science and Technology, Gj{\o}vik},
+    year = {2019},
+    publisher = {NTNU},
+    note = {Available from: \url{https://hdl.handle.net/11250/2677763}}
+}
+```
+
 ## Practical Application - Streaming IFC Models from disk
 A part of this thesis was to stream IFC models from disk, the source code for this is also located at this repository.
 
