@@ -2,7 +2,7 @@
 This repo contains the thesis and source code for my master project, Investigating Data-Oriented Design, at NTNU Gjøvik. 
 
 ## Thesis
-The thesis itself can be found in this [repository](https://github.com/Per-Morten/master_project/blob/master/investigating_dod_thesis.pdf) (I recommend downloading it rather than using Githubs PDF reader as it, in my case, doesn't load the entire thesis). Alternatively you can find the thesis at [NTNUOpen](https://hdl.handle.net/11250/2677763). 
+The thesis itself can be found in this [repository](https://github.com/Per-Morten/master_project/blob/master/investigating_dod_thesis.pdf) (I recommend downloading it rather than using Githubs PDF reader as it, in my case, doesn't load the entire thesis). Alternatively you can find the thesis at [NTNUOpen]([https://hdl.handle.net/11250/2677763](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2677763)). 
 
 The thesis essentially me trying to understand DOD through literature analysis, in-depth interviews with industry practitioners of DOD, and a practical application of my understanding of DOD, with feedback from some of the practitioners.
 
